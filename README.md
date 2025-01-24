@@ -16,7 +16,7 @@ We use the (refined) depth prediction set of the KITTI dataset; please download 
 
 [DDAD](https://github.com/TRI-ML/DDAD) dataset can be used for training the source models (train set)
 as well as adaptation from KITTI source models. After downloading the dataset as instructed,
-please install the [tool](https://github.com/TRI-ML/dgp) for data loading.
+please install the [tool](https://github.com/TRI-ML/dgp) (version 0.1) for data loading.
 
 [Waymo](https://waymo.com/open/) dataset is used for adaptation from source models.
 We experiment on the perception dataset v1.2.0; please refer to the [tutorials](https://github.com/waymo-research/waymo-open-dataset)
